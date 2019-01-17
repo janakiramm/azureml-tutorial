@@ -1,1 +1,1 @@
-# azureml-tutorial
+# Getting Started with Azure ML Service
